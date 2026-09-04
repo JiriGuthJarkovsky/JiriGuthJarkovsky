@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiriGuthJarkovsky.
-- 👀 I’m interested in quantum computing and all different flavors of applied mathematics.
+- 👀 I’m interested in quantum computing and applied mathematics.
 
 <!---
 JiriGuthJarkovsky/JiriGuthJarkovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
